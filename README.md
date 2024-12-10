@@ -1,6 +1,6 @@
-# PGY-4121
 
-## Como desplegar la apk desde Ionic
+
+desplegar la apk desde Ionic
 
 1. Instalación de dependencias
 ```bash
@@ -63,7 +63,7 @@ requisitos técnicos
 
 Se debe entregar el proyecto en github
 
-## Ejercicio Consumo de API
+## Consumo de API
 Considerando la app base de consumo de Rick And Morty:
 1. Mejorar la navegacion, impidiendo que se pueda llegar a paginas negativas o inexistentes
 2. Para cada personaje de la lista, permitir ver el detalle de su información, lo que aparece en la api respectiva: https://rickandmortyapi.com/api/character/${id}, donde ${id} se debe reemplazar por el id del personaje
